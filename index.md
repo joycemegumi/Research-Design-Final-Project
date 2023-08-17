@@ -1,6 +1,5 @@
 # Designing an Experimental Study on Customer Engagement on Instagram Shop
-**Authors:**  Joyce Ishikawa, Maria Pilar Bifaretti, <br>
-Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
+**Authors:**  Joyce Ishikawa, Maria Pilar Bifaretti, <br> Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
 
 ## Part 1:  Research Proposal
 
