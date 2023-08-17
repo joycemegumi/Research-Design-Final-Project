@@ -235,7 +235,7 @@ Due to the high rates of Type I errors, we are not able to  make conclusions and
 ##### Simulation
 A simulation of 1,000 experiments of the one factor ANOVA test with Tukey’s HSD correction were conducted in the scenario of no effect. The following assumptions were made to create the simulated data: A sample size of 280, with each group resulting in a sample size of 70. The standard deviation of 15 was assumed along with a control mean and treatment mean of 45 seconds to show no effect. For each research question the same treatment mean was applied as according to the null hypothesis. The table of simulated results are shown in Table 1.  <br>
 ```{r scenario1_simulation}
-###########  Simulation Scenario With No Effect Size ###########
+####  Simulation Scenario With No Effect Size ####
 library(data.table); library(dplyr)
 N <- 280 #Sample Size
 B <- 1000 #Number of experiments
@@ -323,7 +323,7 @@ results %>%
 ##### Simulation
 A simulation of 1,000 experiments of the one factor ANOVA test with Tukey’s HSD correction were conducted in the scenario of no effect. The following assumptions were made to create the simulated data: A sample size of 280, with each group resulting in a sample size of 70. The standard deviation of 15 was assumed along with a control mean of 45 seconds and treatment mean with effect of 55 seconds. The treatment mean with effect was estimated based on a 20% expected increase from the control mean. For each research question the same treatment mean was applied as according to the 20% effect size that was deemed to be meaningful. The table of simulated results are shown in Table 1.  <br>
 ```{r scenario2_simulation}
-########### Simulation Scenario With Effect Size 20% ##############
+#### Simulation Scenario With Effect Size 20% ####
 library(data.table); library(dplyr)
 N <- 280 #Sample Size
 B <- 1000 #Number of experiments
@@ -360,7 +360,7 @@ for(i in 1:B){
 
 ```{r q3_scenario2_analysis}
 
-#### Analysis of Scenario with Effect ######
+#### Analysis of Scenario with Effect ####
 
 #Check for significant difference within the group in ANOVA
 aov_results # p-value: 0.00027
