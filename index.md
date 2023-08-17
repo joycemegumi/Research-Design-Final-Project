@@ -1,7 +1,6 @@
 # Designing an Experimental Study on Customer Engagement on Instagram Shop
 **Authors:**  Joyce Ishikawa, Maria Pilar Bifaretti, <br>
 Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
----
 
 ## Part 1:  Research Proposal
 
@@ -409,52 +408,54 @@ Table 1: Simulated Results
 </center>
 
 ## References
-Brewster, M. (2022, October 3). Annual retail trade survey shows impact of online shopping on retail sales during COVID-19 pandemic. Census.gov. Retrieved from United States Census: https://www.census.gov/library/stories/2022/04/ecommerce-sales-surged-during-pandemic.html 
+Brewster, M. (2022, October 3). Annual retail trade survey shows impact of online shopping on retail sales during COVID-19 pandemic. Census.gov. Retrieved from United States Census: [https://www.census.gov/library/stories/2022/04/ecommerce-sales-surged-during-pandemic.html](https://www.census.gov/library/stories/2022/04/ecommerce-sales-surged-during-pandemic.html)
 
-Cetinturk, N. (2019). Evaluating the Digital Marketing Metrics: The Relationship of Average Session Duration to Sales Performance. Retrieved from ResearchGate: https://www.researchgate.net/publication/338986068 
+Cetinturk, N. (2019). Evaluating the Digital Marketing Metrics: The Relationship of Average Session Duration to Sales Performance. Retrieved from ResearchGate: [https://www.researchgate.net/publication/338986068](https://www.researchgate.net/publication/338986068) 
 
 Chen, T., Fenyo, K., Yang, S., & Zhang, J. (2018). Thinking inside the subscription box: new research on e-commerce consumers.. Retrieved from McKinsey:
-https://www.mckinsey.com/~/media/McKinsey/Industries/Technology%20Media%20and%20Telecommunications/High%20Tech/Our%20Insights/Thinking%20inside%20the%20subscription%20box%20New%20research%20on%20ecommerce%20consumers/Thinking-inside-the-subscription-box-New-research-on-ecommerce-consumers.pdf
+[https://www.mckinsey.com/~/media/McKinsey/Industries/Technology%20Media%20and%20Telecommunications/High%20Tech/Our%20Insights/Thinking%20inside%20the%20subscription%20box%20New%20research%20on%20ecommerce%20consumers/Thinking-inside-the-subscription-box-New-research-on-ecommerce-consumers.pdf](https://www.mckinsey.com/~/media/McKinsey/Industries/Technology%20Media%20and%20Telecommunications/High%20Tech/Our%20Insights/Thinking%20inside%20the%20subscription%20box%20New%20research%20on%20ecommerce%20consumers/Thinking-inside-the-subscription-box-New-research-on-ecommerce-consumers.pdf)
 
-Contentsquare. (2022). Digital Experience Benchmark Report. Retrieved from Contentsquare: https://contentsquare.com/insights/digital-experience-benchmark/ 
+Contentsquare. (2022). Digital Experience Benchmark Report. Retrieved from Contentsquare: [https://contentsquare.com/insights/digital-experience-benchmark/](https://contentsquare.com/insights/digital-experience-benchmark/) 
 
-Geyser, W. (2022, July 21). 12 Social Commerce Platform Examples That Prove Social Is Key. Retrieved from Influencer Marketing Hub: https://influencermarketinghub.com/social-commerce-platform/
-Gokila, V. (2021, April 20). A study on the growth of e-commerce during COVID-19. Retrieved from SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3828398 
+Geyser, W. (2022, July 21). 12 Social Commerce Platform Examples That Prove Social Is Key. Retrieved from Influencer Marketing Hub: [https://influencermarketinghub.com/social-commerce-platform/](https://influencermarketinghub.com/social-commerce-platform/)
 
-Hu, M., & Chaudhry, S. S. (2020, March 5). Enhancing consumer engagement in e-commerce live streaming via relational bonds. Retrieved from Emerald Insight: https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2019-0082/full/html
+Gokila, V. (2021, April 20). A study on the growth of e-commerce during COVID-19. Retrieved from SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3828398](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3828398)
 
-Instagram. (2022). Instagram Shopping. Retrieved from Instagram: https://business.instagram.com/shopping 
+Hu, M., & Chaudhry, S. S. (2020, March 5). Enhancing consumer engagement in e-commerce live streaming via relational bonds. Retrieved from Emerald Insight: [https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2019-0082/full/html](https://www.emerald.com/insight/content/doi/10.1108/INTR-03-2019-0082/full/html)
 
-Instagram. (2022). Availability of shopping features on Instagram: Help center. Availability of shopping features on Instagram Help Center. (n.d.). Retrieved November 13, 2022, from https://help.instagram.com/321000045119159 
+Instagram. (2022). Instagram Shopping. Retrieved from Instagram: [https://business.instagram.com/shopping](https://business.instagram.com/shopping) 
+
+Instagram. (2022). Availability of shopping features on Instagram: Help center. Availability of shopping features on Instagram Help Center. (n.d.). Retrieved November 13, 2022, from [https://help.instagram.com/321000045119159](https://help.instagram.com/321000045119159) 
 
 Lipsman, A. (2021, February 5). US social commerce is following in China’s footsteps. 
-Retrieved from Insider Intelligence: https://www.insiderintelligence.com/content/us-social-commerce-following-chinas-footsteps
+Retrieved from Insider Intelligence: [https://www.insiderintelligence.com/content/us-social-commerce-following-chinas-footsteps](https://www.insiderintelligence.com/content/us-social-commerce-following-chinas-footsteps)
  
 Murdoch, R., Wright, O., Fang, K., Collins, K., & McCracken, L. (2022, January 4). The future of shopping and social commerce. 
-Retrieved from Accenture: https://newsroom.accenture.com/news/shopping-on-social-media-platforms-expected-to-reach-1-2-trillion-globally-by-2025-new-accenture-study-finds.htm
+Retrieved from Accenture: [https://newsroom.accenture.com/news/shopping-on-social-media-platforms-expected-to-reach-1-2-trillion-globally-by-2025-new-accenture-study-finds.htm](https://newsroom.accenture.com/news/shopping-on-social-media-platforms-expected-to-reach-1-2-trillion-globally-by-2025-new-accenture-study-finds.htm)
 
-Osman, M. (2022, September 19). Ecommerce statistics for 2022 - Chatbots, voice, Omni-channel marketing. Kinsta. Retrieved November 13, 2022, from https://kinsta.com/blog/ecommerce-statistics/#digging-into-ecommerce-demographics 
+Osman, M. (2022, September 19). Ecommerce statistics for 2022 - Chatbots, voice, Omni-channel marketing. Kinsta. Retrieved November 13, 2022, from [https://kinsta.com/blog/ecommerce-statistics/#digging-into-ecommerce-demographics](https://kinsta.com/blog/ecommerce-statistics/#digging-into-ecommerce-demographics) 
 
-Pixlee TurnTo. (2022, October 12). The top industries using Instagram: Pixlee Turnto Blog. Pixlee TurnTo. Retrieved November 16, 2022, from https://www.pixlee.com/blog/the-top-industries-using-instagram 
+Pixlee TurnTo. (2022, October 12). The top industries using Instagram: Pixlee Turnto Blog. Pixlee TurnTo. Retrieved November 16, 2022, from [https://www.pixlee.com/blog/the-top-industries-using-instagram](https://www.pixlee.com/blog/the-top-industries-using-instagram) 
 
-RDocumentation Search all packages and functions. (n.d.). pwr.anova.test: Power calculations for balanced one-way analysis of variance tests. Retrieved from RDocumentation: https://www.rdocumentation.org/packages/pwr/versions/1.3-0/topics/pwr.anova.test 
+RDocumentation Search all packages and functions. (n.d.). pwr.anova.test: Power calculations for balanced one-way analysis of variance tests. Retrieved from RDocumentation: [https://www.rdocumentation.org/packages/pwr/versions/1.3-0/topics/pwr.anova.test](https://www.rdocumentation.org/packages/pwr/versions/1.3-0/topics/pwr.anova.test) 
  
-Rooderkerk, R.P. and Lehmann, D.R. (2020) Incorporating Consumer Product Categorizations into Shelf Layout Design. Retrieved from SAGE Journals:  https://journals.sagepub.com/doi/10.1177/0022243720964127 
+Rooderkerk, R.P. and Lehmann, D.R. (2020) Incorporating Consumer Product Categorizations into Shelf Layout Design. Retrieved from SAGE Journals:  [https://journals.sagepub.com/doi/10.1177/0022243720964127](https://journals.sagepub.com/doi/10.1177/0022243720964127)
+
 Singh, M., & Singh, G. (2018). Impact of social media on e-commerce. International Journal of Engineering and Technology(UAE), 21-26.
 
 Serdar CC, Cihan M, Yücel D, Serdar MA. Sample size, power and effect size revisited: simplified and practical approaches in pre-clinical, clinical and laboratory studies. Biochem Med (Zagreb). 2021 Feb 15;31(1):010502. doi: 10.11613/BM.2021.010502. Epub 2020 Dec 15. PMID: 33380887; PMCID: PMC7745163.
 
-Suchánek, P., & Králová, M. (n.d.). Effect of customer satisfaction on company performance - researchgate. Retrieved from ResearchGate: https://www.researchgate.net/publication/281314808_Effect_of_Customer_Satisfaction_on_Company_Performance/fulltext/5673ff0008aedbbb3fa1ad29/Effect-of-Customer-Satisfaction-on-Company-Performance.pdf  
+Suchánek, P., & Králová, M. (n.d.). Effect of customer satisfaction on company performance - researchgate. Retrieved from ResearchGate: [https://www.researchgate.net/publication/281314808_Effect_of_Customer_Satisfaction_on_Company_Performance/fulltext/5673ff0008aedbbb3fa1ad29/Effect-of-Customer-Satisfaction-on-Company-Performance.pdf](https://www.researchgate.net/publication/281314808_Effect_of_Customer_Satisfaction_on_Company_Performance/fulltext/5673ff0008aedbbb3fa1ad29/Effect-of-Customer-Satisfaction-on-Company-Performance.pdf) 
 
-Vazquez, E. E., Ruiz, D. D., & Martinez, J. C. G. (2020). Influence of consumer product categorization on digital sales: The mediating effect of conversion rate. Retrieved from European Journal of Applied Business and Management, 6(4): https://nidisag.isag.pt/index.php/IJAM/article/view/517
+Vazquez, E. E., Ruiz, D. D., & Martinez, J. C. G. (2020). Influence of consumer product categorization on digital sales: The mediating effect of conversion rate. Retrieved from European Journal of Applied Business and Management, 6(4): [https://nidisag.isag.pt/index.php/IJAM/article/view/517](https://nidisag.isag.pt/index.php/IJAM/article/view/517)
 
 Weeks, J. B., Smith, K. M., & Hulland, J. (2021). Consumer brand curation on social shopping sites. Retrieved from Journal of Business Research, 133, 399-408:
-https://www.sciencedirect.com/science/article/abs/pii/S0148296321003398?via%3Dihub
+[https://www.sciencedirect.com/science/article/abs/pii/S0148296321003398?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0148296321003398?via%3Dihub)
 
 Yahia, I. B., Al-Neama, N., & Kerbache, L. (2018). Investigating the drivers for social commerce in social media platforms: Importance of trust, social support, and the platform perceived usage. Retrieved from Journal of Retailing and Consumer Services, 41, 11-19:
-https://www.sciencedirect.com/science/article/abs/pii/S0969698917301315?via%3Dihub
+[https://www.sciencedirect.com/science/article/abs/pii/S0969698917301315?via%3Dihub](https://www.sciencedirect.com/science/article/abs/pii/S0969698917301315?via%3Dihub)
 
-Zhou, L. Z., Zhang, P., & Zimmermann, H.-D. Z. (2013). Social commerce research: An integrated view . ScienceDirect, 61-68. https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A  
+Zhou, L. Z., Zhang, P., & Zimmermann, H.-D. Z. (2013). Social commerce research: An integrated view . ScienceDirect, 61-68. [https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A](https://www.sciencedirect.com/science/article/pii/S1567422313000148?casa_token=SjETZ963MMkAAAAA:3ex74aZiBGEbPkxuYoOnJ3ChL1ZKetw6RUfrJmQ7H28YROWSigiJLvykif3ssjdAlR8xF3K4-A)  
  <br>
 **Authors**:  <br>
 Chi Lee 16.7%,  <br>
