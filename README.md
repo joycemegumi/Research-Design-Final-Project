@@ -103,7 +103,8 @@ Mathematical notation: 𝜇 > 46 seconds
 | 
 #### Brief Schedule
 <center>
-![Graph 1. Brief Schedule of the Research Experiment](https://github.com/joycemegumi/5300_Final_Project/blob/main/Brief-Schedule.png?raw=true)
+![Graph 1. Brief Schedule of the Research Experiment]
+<img src="Brief-Schedule.png"/>
 </center>
 |      The whole study will last for about five weeks. The experiment will start on February 1st and end the study on March 8th. To avoid seasonal effects (eg. Thanksgiving and Christmans) on Instagram users’ shopping behavior, the experiment will run from February 15 to March 1.  <br>
 | **Authors**: Yancheng Yu 100% <br>
@@ -131,7 +132,7 @@ Mathematical notation: 𝜇 > 46 seconds
 |      In the treatment 3 group, the users will be exposed to a Shop feed with a feature that displays the price and description of a product for every product shown in the feed as seen in figure 3. The treatment is administered to the subject’s Instagram account on their Shop feed the moment the experiment is started simultaneously with the control and other treatment groups. We hypothesize that the presence of price and description will allow more transparency for users that are price sensitive and increase their average daily session time. According to Yahia, Al-Neama & Kerbache (2018), most potential customers who wish to buy products through the Instagram shop are usually more sensitive to the price of the products and their description than their relevance. 
 
 <center>
-![](https://github.com/joycemegumi/5300_Final_Project/blob/main/treatments.jpeg?raw=true)
+<img src="images/igshop-rd/treatments.jpeg"/>
 </center>
 
 | **Authors**: Joyce Ishikawa 100% <br>
@@ -363,7 +364,8 @@ results %>%
   <br>
  
 <center>
-![**Table 1:** Simulated Results](https://github.com/joycemegumi/5300_Final_Project/blob/main/simulations%20results.png?raw=true)
+![**Table 1:** Simulated Results]
+  <img src="simulations%20results.png"/>
 </center>
 
 ## References
