@@ -208,7 +208,7 @@ If the null hypothesis is accepted  (there was no change between the control and
 This study has several limitations concerning authenticity. First, since our participants are chosen randomly and it's hard to check on their real identities, there might be users who gave wrong personal information or something that might not be 100% real compared to their real identities. Moreover, some of our users might be unqualified shopping users because they might click on the shop feature accidentally rather than intentionally. These kinds of users are not the users that we try to target but rather try to avoid. However, the experiments were done in private and the responses were anonymous and respondents had little incentive to please the researcher, thus the result might not be significantly affected by the potential fake information.  <br>
 Furthermore, the experiment would be more precise and accurate if the duration of the experiment was longer, however due to the ever-changing nature of social media, the timeline has to be compact in order to adapt to the real-world situation quickly. Lastly, the experiments do not measure the interactions between the independent variables, and the variables might affect each other accordingly, but these interactions might be realized in later studies for the future.  <br>
 **Authors**: Chi Lee 100% <br>
-|
+
 ## Part 2:  Simulated Studies
 **Authors**: Joyce Ishikawa 50%, Jingyi  50%  <br>
 
