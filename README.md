@@ -1,18 +1,7 @@
 ---
-title: "A Study on Customer Engagement on Instagram Shop"
-author:  "Maria Pilar Bifaretti, Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu, Joyce Ishikawa"
-output: html_document
+# Designing an Experimental Study on Customer Engagement on Instagram Shop
+### Authors:  Joyce Ishikawa, Maria Pilar Bifaretti, Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
 ---
-
-<style>
-body {
-text-align: justify}
-</style>
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE, comment="", warning = FALSE, message = FALSE, tidy.opts=list(width.cutoff=55), tidy = TRUE)
-```
-
 ## Part 1:  Research Proposal
 
 ### Executive Summary / Abstract
