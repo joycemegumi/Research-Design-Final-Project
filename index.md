@@ -1,7 +1,8 @@
----
 # Designing an Experimental Study on Customer Engagement on Instagram Shop
-### Authors:  Joyce Ishikawa, Maria Pilar Bifaretti, Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
+**Authors:**  Joyce Ishikawa, Maria Pilar Bifaretti, <br>
+Chi Lee, Jingyi Li, Michelle Mai, Yancheng Yu
 ---
+
 ## Part 1:  Research Proposal
 
 ### Executive Summary / Abstract
@@ -16,9 +17,6 @@ A one-way analysis of variance test with the Tukey’s Honest Significant Differ
 * If the users' average daily session time increases by 20% or more by clearly displaying the price and description of each product in the feed, Instagram should consider implementing the feature. 
 
 **Authors**: Maria Bifaretti 100%
-
-
-
 
 ### Statement of the Problem
 The presence of social networks has revolutionized and stimulated e-commerce (Singh & Singh, 2018). Consequently, it has given life to a new form of buying and selling - social commerce. Social commerce is a form of online trade that uses social networks as a sales channel (Zhou, Zhang, & Zimmermann, 2013). It is a model that allows consumers to complete their entire shopping experience in a single place, from product discovery to purchase. As a result, this presents significant opportunities for large companies, small brands, and individuals. For the social platforms themselves, it is a new source of revenue and a way to increase engagement with their users. 
@@ -136,6 +134,7 @@ Graph 1: Brief Schedule of the Research Experiment
 <img src="Brief-Schedule.png"/>
 </center>
 The whole study will last for about five weeks. The experiment will start on February 1st and end the study on March 8th. To avoid seasonal effects (eg. Thanksgiving and Christmans) on Instagram users’ shopping behavior, the experiment will run from February 15 to March 1.  <br>
+
 **Authors**: Yancheng Yu 100% <br>
 
 #### Data Collection<br>
